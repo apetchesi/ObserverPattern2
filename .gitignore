@@ -140,6 +140,11 @@ packages/*
 # (and the packages folder if the line above has been uncommented)
 !packages/build/
 
+# Added by me
+/bin/*
+/obj/*
+
+
 # Windows Azure Build Output
 csx/
 *.build.csdef
