@@ -4,6 +4,7 @@
 ## ADD directories
 bin/*.*
 obj/*.*
+Properties/*.*
 
 # User-specific files
 *.suo
