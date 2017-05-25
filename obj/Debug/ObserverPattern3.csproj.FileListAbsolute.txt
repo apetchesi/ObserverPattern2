@@ -1,0 +1,1 @@
+C:\Users\petchesi.alexandru\projects\ObserverPattern3\bin\Debug\ObserverPattern3.exe.config
